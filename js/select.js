@@ -487,7 +487,7 @@ function selectNumber(){
         inputCars = $('#inputTrainCars').val();
 
     if(inputNumber == ''){
-        alert(`列車番号を入力してください。`);
+        alert(`いや列番打てよ`);
         return;
     }
 
