@@ -1,4 +1,4 @@
-# KNR-shioTime
+# KNR-shioTime<br>
 俺が勝手に改造した古中鉄道向けshioTimeです。<br>
 開発中のデータなので頻繁に変更があります。<br>
 <br>
@@ -6,7 +6,7 @@
 通告txtの更新には1分程度要するので注意<br>
 <br>
 <hr>
-# dia.jsonの作り方
+# dia.jsonの作り方<br>
 1.上りダイヤ、下りダイヤをそれぞれouDiaのソフトでcsv出力する<br>
 2.それぞれのcsvから"："(コロン)を全削除する<br>
 3.oud2Shio.jsをNodeで実行する。上り、下の両方のcsvを読み込み、基準時刻は"2"とする<br>
