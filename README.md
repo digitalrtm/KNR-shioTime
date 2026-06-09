@@ -2,7 +2,7 @@
 俺が勝手に改造した古中鉄道向けshioTimeです。<br>
 開発中のデータなので頻繁に変更があります。<br>
 <br>
-閲覧使用はこちらから→→<https://digitalrtm.github.io/KNR-shioTime/><br>
+閲覧使用はこちらから→→<a href="https://digitalrtm.github.io/KNR-shioTime">digitalrtm.github.io</a><br>
 通告txtの更新には1分程度要するので注意
 <hr>
 <h2>dia.jsonの作り方</h2>
